@@ -21,3 +21,33 @@ cd '<dosya yolu>'
 touch komutu:
 yeni bir metin belgesi oluşturduk.
 touch gitgithubbilgi.txt 
+
+ls komutu: 
+dizinde bulunan dosyaları gösterir.
+
+clear komutu:
+komutları temizler.
+
+Kullanıcı Bilgilerini Tanımlama:
+git config --global user.name "Caner Mollaoğlu"
+git config --global user.mail "canermollaoglu@hotmail.com"
+
+
+git init:
+boş repository oluşturuldu.
+
+git add <dosya adı>:
+versiyonlanacak dosya staging area ya eklenir.
+
+git add .
+klasörde bulunan tüm dosyalar versiyonlanmak üzere staging'e eklenir.
+
+git status:
+mevcut durum hakkında bilgi verir.
+
+git commit -m "<mesaj>"
+
+git log
+tüm commitleri listeler
+
+deneme
