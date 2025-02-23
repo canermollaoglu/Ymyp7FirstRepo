@@ -50,6 +50,5 @@ git commit -m "<mesaj>"
 git log
 tüm commitleri listeler
 
-deneme
-
-a
+.gitignore:
+versiyonlanmasını istemediğimiz dosyaları ve dosya uzantılarını bunun içerisine yazabiliriz.
